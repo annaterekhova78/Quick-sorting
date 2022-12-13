@@ -1,0 +1,14 @@
+{
+  "name": "course-sort-annat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "sort": "node index.js",
+    "seed": "node seed.js",
+    "clean": "rm -f sorted.json unsorted.json"
+  },
+  "author": "Anna Terekhova",
+  "license": "ISC"
+}
